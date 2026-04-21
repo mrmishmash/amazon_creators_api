@@ -1,6 +1,7 @@
 {
+    "name": "mrmishmash/amazon_creators_api",
     "version": "1.2.0",
-    "description": "CreatorsAPI 1.2.0 PHP SDK",
+    "description": "Github mirror of CreatorsAPI 1.2.0 PHP SDK",
     "keywords": [
         "creatorsapi-php-sdk",
         "creatorsapi"
